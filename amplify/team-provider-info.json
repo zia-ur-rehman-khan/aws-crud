@@ -1,0 +1,23 @@
+{
+  "test": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-todo-test-233148-authRole",
+      "UnauthRoleArn": "arn:aws:iam::182502766709:role/amplify-todo-test-233148-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::182502766709:role/amplify-todo-test-233148-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-todo-test-233148-deployment",
+      "UnauthRoleName": "amplify-todo-test-233148-unauthRole",
+      "StackName": "amplify-todo-test-233148",
+      "StackId": "arn:aws:cloudformation:us-east-1:182502766709:stack/amplify-todo-test-233148/6febd820-6355-11ec-8004-0e6110ea02d9",
+      "AmplifyAppId": "d1yghculth6byt"
+    },
+    "categories": {
+      "function": {
+        "todohandler": {
+          "deploymentBucketName": "amplify-todo-test-233148-deployment",
+          "s3Key": "amplify-builds/todohandler-634c7177782b4d62716c-build.zip"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/api/v1/create": {
+      "name": "/api/v1/create",
+      "lambdaFunction": "todohandler",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}

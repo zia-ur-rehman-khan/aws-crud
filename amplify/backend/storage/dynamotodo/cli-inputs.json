@@ -1,0 +1,18 @@
+{
+  "resourceName": "dynamotodo",
+  "tableName": "todo",
+  "partitionKey": {
+    "fieldName": "todoId",
+    "fieldType": "string"
+  },
+  "gsi": [
+    {
+      "name": "byUserId",
+      "partitionKey": {
+        "fieldName": "todoId",
+        "fieldType": "string"
+      }
+    }
+  ],
+  "triggerFunctions": []
+}
