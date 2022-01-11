@@ -15,7 +15,7 @@
       "function": {
         "todohandler": {
           "deploymentBucketName": "amplify-todo-test-233148-deployment",
-          "s3Key": "amplify-builds/todohandler-634c7177782b4d62716c-build.zip"
+          "s3Key": "amplify-builds/todohandler-57395753457a34574d68-build.zip"
         }
       }
     }
